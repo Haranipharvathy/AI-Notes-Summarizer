@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("📝 AI Notes Summarizer")
+st.title("AI Notes Summarizer")
 
-st.write("If you can see this text, Streamlit is working.")
+st.write("get summary of your notes.")
 
 text = st.text_area("Enter your notes")
 
